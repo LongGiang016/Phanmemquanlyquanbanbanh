@@ -1,0 +1,105 @@
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.AssemblyReference.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.Properties.Resources.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.GenerateResource.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.CoreCompileInputs.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDatHang.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.CopyComplete
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmBan.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmThongKe.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.xml
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmSanPham.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\BUSS.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\BUSS.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDangNhap.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmTaiKhoan.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmChinh.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmNhanVien.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\stdole.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmInHoaDon.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmHoaDon.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDanhMucSanPham.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmKhachHang.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\QuanLyCuaHangBanBanh.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\BUSS.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.Shared.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\stdole.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\BUSS.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DAO.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\DTO.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.xml
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.AssemblyReference.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.SuggestedBindingRedirects.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmChinh.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDangNhap.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmBan.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDanhMucSanPham.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmDatHang.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmHoaDon.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmInHoaDon.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmKhachHang.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmNhanVien.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmSanPham.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmTaiKhoan.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.frmThongKe.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.Properties.Resources.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.GenerateResource.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.CoreCompileInputs.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.csproj.CopyComplete
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\QuanLyCuaHangBanBanh\obj\Debug\QuanLyCuaHangBanBanh.pdb

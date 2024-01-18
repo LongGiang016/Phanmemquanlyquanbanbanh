@@ -1,0 +1,30 @@
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\BUSS.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\BUSS.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\EntityFramework.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\bin\Debug\EntityFramework.xml
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.AssemblyReference.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.CoreCompileInputs.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.CopyComplete
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.dll
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\BUSS.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\BUSS.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\EntityFramework.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DAO.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\DTO.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\bin\Debug\EntityFramework.xml
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.AssemblyReference.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.CoreCompileInputs.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.csproj.CopyComplete
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.dll
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\BUSS\obj\Debug\BUSS.pdb

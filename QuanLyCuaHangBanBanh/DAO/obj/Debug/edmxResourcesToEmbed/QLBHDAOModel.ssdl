@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="quanlycuahangbanhSHBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Ban">
+    <Key>
+      <PropertyRef Name="MABAN" />
+    </Key>
+    <Property Name="MABAN" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENBAN" Type="nvarchar" MaxLength="50" />
+    <Property Name="TRANGTHAI" Type="nvarchar" MaxLength="10" />
+    <Property Name="HINHANH" Type="varbinary(max)" />
+    <Property Name="XOA" Type="bit" />
+  </EntityType>
+  <EntityType Name="CT_Hoadon">
+    <Key>
+      <PropertyRef Name="MACTHOADON" />
+    </Key>
+    <Property Name="MACTHOADON" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MAHOADON" Type="int" Nullable="false" />
+    <Property Name="MASANPHAM" Type="int" Nullable="false" />
+    <Property Name="SOLUONG" Type="int" />
+  </EntityType>
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="TENDANGNHAP" />
+    </Key>
+    <Property Name="TENDANGNHAP" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="MATKHAU" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="MANHANVIEN" Type="int" Nullable="false" />
+    <Property Name="XOA" Type="bit" />
+  </EntityType>
+  <EntityType Name="DanhMuc">
+    <Key>
+      <PropertyRef Name="MADANHMUC" />
+    </Key>
+    <Property Name="MADANHMUC" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENDANHMUC" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="XOA" Type="bit" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MAHOADON" />
+    </Key>
+    <Property Name="MAHOADON" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DATECHECK" Type="datetime" Nullable="false" />
+    <Property Name="DATEOUT" Type="datetime" />
+    <Property Name="MANHANVIEN" Type="int" />
+    <Property Name="MAKHACHHANG" Type="int" />
+    <Property Name="MABAN" Type="int" />
+    <Property Name="TRANGTHAI" Type="bit" Nullable="false" />
+    <Property Name="TONGHOADON" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GIAMGIA" Type="int" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MAKHACHHANG" />
+    </Key>
+    <Property Name="MAKHACHHANG" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+    <Property Name="SDT" Type="int" />
+    <Property Name="XOA" Type="bit" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MANHANVIEN" />
+    </Key>
+    <Property Name="MANHANVIEN" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CALAMVIEC" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="CHUCVU" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="LUONG" Type="decimal" Precision="18" Scale="3" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="SDT" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="EMAIL" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="GIOITINH" Type="bit" Nullable="false" />
+    <Property Name="XOA" Type="bit" />
+    <Property Name="HINHANH" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MASANPHAM" />
+    </Key>
+    <Property Name="MASANPHAM" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MADANHMUC" Type="int" Nullable="false" />
+    <Property Name="TENSANPHAM" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="SOLUONG" Type="int" Nullable="false" />
+    <Property Name="MOTA" Type="nvarchar" MaxLength="200" />
+    <Property Name="DONGIA" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="XOA" Type="bit" />
+    <Property Name="HINHANH" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__CT_Hoadon__MAHOA__6D0D32F4">
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="1" />
+    <End Role="CT_Hoadon" Type="Self.CT_Hoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MAHOADON" />
+      </Principal>
+      <Dependent Role="CT_Hoadon">
+        <PropertyRef Name="MAHOADON" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_Hoadon__MASAN__6E01572D">
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
+    <End Role="CT_Hoadon" Type="Self.CT_Hoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MASANPHAM" />
+      </Principal>
+      <Dependent Role="CT_Hoadon">
+        <PropertyRef Name="MASANPHAM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DangNhap__XOA__4F7CD00D">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="DangNhap" Type="Self.DangNhap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MANHANVIEN" />
+      </Principal>
+      <Dependent Role="DangNhap">
+        <PropertyRef Name="MANHANVIEN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HoaDon__MABAN__6A30C649">
+    <End Role="Ban" Type="Self.Ban" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ban">
+        <PropertyRef Name="MABAN" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MABAN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HoaDon__MAKHACHH__74794A92">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MAKHACHHANG" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MAKHACHHANG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HoaDon__MANHANVI__68487DD7">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MANHANVIEN" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MANHANVIEN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SanPham__HINHANH__59063A47">
+    <End Role="DanhMuc" Type="Self.DanhMuc" Multiplicity="1" />
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DanhMuc">
+        <PropertyRef Name="MADANHMUC" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MADANHMUC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="USP_ChuyenBan" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="idTable1" Type="int" Mode="In" />
+    <Parameter Name="idTable2" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_KiemTraSanPhamTonTai" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MAHOADON" Type="int" Mode="In" />
+    <Parameter Name="MASANPHAM" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_SuaHoaDon" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MAHOADON" Type="int" Mode="In" />
+    <Parameter Name="MASANPHAM" Type="int" Mode="In" />
+    <Parameter Name="SOLUONG" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_ThemCTHoaDon" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MAHOADON" Type="int" Mode="In" />
+    <Parameter Name="MASANPHAM" Type="int" Mode="In" />
+    <Parameter Name="SOLUONG" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_ThemCTHoaDonsua" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MAHOADON" Type="int" Mode="In" />
+    <Parameter Name="MASANPHAM" Type="int" Mode="In" />
+    <Parameter Name="SOLUONG" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_ThemVaoHoaDon" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MABAN" Type="int" Mode="In" />
+  </Function>
+  <Function Name="USP_ThemVaoHoaDonKoCanBan" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="USP_ThemVaoKhachHang" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HOTEN" Type="nvarchar" Mode="In" />
+    <Parameter Name="SDT" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="quanlycuahangbanhSHBModelStoreContainer">
+    <EntitySet Name="Ban" EntityType="Self.Ban" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CT_Hoadon" EntityType="Self.CT_Hoadon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DangNhap" EntityType="Self.DangNhap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DanhMuc" EntityType="Self.DanhMuc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HoaDon" EntityType="Self.HoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KhachHang" EntityType="Self.KhachHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SanPham" EntityType="Self.SanPham" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__CT_Hoadon__MAHOA__6D0D32F4" Association="Self.FK__CT_Hoadon__MAHOA__6D0D32F4">
+      <End Role="HoaDon" EntitySet="HoaDon" />
+      <End Role="CT_Hoadon" EntitySet="CT_Hoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_Hoadon__MASAN__6E01572D" Association="Self.FK__CT_Hoadon__MASAN__6E01572D">
+      <End Role="SanPham" EntitySet="SanPham" />
+      <End Role="CT_Hoadon" EntitySet="CT_Hoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DangNhap__XOA__4F7CD00D" Association="Self.FK__DangNhap__XOA__4F7CD00D">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="DangNhap" EntitySet="DangNhap" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HoaDon__MABAN__6A30C649" Association="Self.FK__HoaDon__MABAN__6A30C649">
+      <End Role="Ban" EntitySet="Ban" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HoaDon__MAKHACHH__74794A92" Association="Self.FK__HoaDon__MAKHACHH__74794A92">
+      <End Role="KhachHang" EntitySet="KhachHang" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HoaDon__MANHANVI__68487DD7" Association="Self.FK__HoaDon__MANHANVI__68487DD7">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SanPham__HINHANH__59063A47" Association="Self.FK__SanPham__HINHANH__59063A47">
+      <End Role="DanhMuc" EntitySet="DanhMuc" />
+      <End Role="SanPham" EntitySet="SanPham" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

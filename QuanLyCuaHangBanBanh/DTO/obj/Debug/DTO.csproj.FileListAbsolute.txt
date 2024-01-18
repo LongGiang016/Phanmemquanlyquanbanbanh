@@ -1,0 +1,20 @@
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.exe.config
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.pdb
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.exe
+C:\Users\LONG GIANG\OneDrive\Documents\c#\0306211022_Tuan05\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.exe.config
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\bin\Debug\DTO.pdb
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.exe
+D:\DoAnWinForm\QuanLyCuaHangBanBanh\DTO\obj\Debug\DTO.pdb
